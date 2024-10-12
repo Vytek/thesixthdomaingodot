@@ -18,6 +18,7 @@ Simulation War Games "The Sixth Domain" based on Godot Open Source 3D Engine
 - https://github.com/clayjohn/godot-volumetric-cloud-demo
 - https://github.com/clayjohn/godot-volumetric-cloud-demo-v2
 - https://github.com/Lexpartizan/Godot_4_sky_shader
+- https://github.com/MMqd/godot-nishita-sky-with-volumetric-clouds (very good!)
 
 ### Buoyancy System
 - https://github.com/ueshita/godot-floatable-body
