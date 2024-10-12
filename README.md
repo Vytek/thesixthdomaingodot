@@ -17,6 +17,7 @@ Simulation War Games "The Sixth Domain" based on Godot Open Source 3D Engine
 - https://stayathomedev.itch.io/godotsky (Only for Godot 4.0) 15$
 - https://github.com/clayjohn/godot-volumetric-cloud-demo
 - https://github.com/clayjohn/godot-volumetric-cloud-demo-v2
+- https://github.com/Lexpartizan/Godot_4_sky_shader
 
 ### Buoyancy System
 - https://github.com/ueshita/godot-floatable-body
