@@ -40,3 +40,7 @@ Simulation War Games "The Sixth Domain" based on Godot Open Source 3D Engine
 ### Ballistic
 
 - https://github.com/nsrosenqvist/godot-trajectory-lib
+
+### Flight Simulator
+
+- https://github.com/fbcosentino/godot-simplified-flightsim
