@@ -30,6 +30,7 @@ Simulation War Games "The Sixth Domain" based on Godot Open Source 3D Engine
 - https://cesium.com/blog/2024/09/26/cesium-plugin-for-godot
   - (Old project): https://github.com/stuarta0/godot-cesium  
 - https://github.com/TokisanGames/Terrain3D
+- https://github.com/Zylann/godot_heightmap_plugin
 
 ### Networking
 
@@ -44,3 +45,7 @@ Simulation War Games "The Sixth Domain" based on Godot Open Source 3D Engine
 ### Flight Simulator
 
 - https://github.com/fbcosentino/godot-simplified-flightsim
+
+### Other Simulator
+
+- https://gitlab.com/ScrambleSim/Scramble
