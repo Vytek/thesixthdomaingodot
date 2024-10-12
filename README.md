@@ -51,3 +51,9 @@ Simulation War Games "The Sixth Domain" based on Godot Open Source 3D Engine
 ### Other Simulator
 
 - https://gitlab.com/ScrambleSim/Scramble
+
+### Tools
+
+- https://github.com/Tobalation/Godot-floating-origin
+- https://github.com/godot-jolt/godot-jolt
+- 
