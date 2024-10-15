@@ -47,13 +47,26 @@ Simulation War Games "The Sixth Domain" based on Godot Open Source 3D Engine
 ### Flight Simulator
 
 - https://github.com/fbcosentino/godot-simplified-flightsim
+- https://github.com/Q-coder/godotjsbsim
 
 ### Other Simulator
 
 - https://gitlab.com/ScrambleSim/Scramble
+- https://github.com/ellenhp/subsim
+- https://github.com/ellenhp/Sub3
 
 ### Tools
 
 - https://github.com/Tobalation/Godot-floating-origin
 - https://github.com/godot-jolt/godot-jolt
-- 
+- https://github.com/boku-ilen/geodot-plugin
+
+### Libraries
+
+- https://github.com/oalib-acoustics/Acoustics-Toolbox
+  - https://oalib-acoustics.org/models-and-software/rays/ 
+- https://github.com/org-arl/arlpy
+  - https://arlpy.readthedocs.io/
+  - Using: https://github.com/tliron/py4go ?
+- https://oalib-acoustics.org/usml/
+- https://github.com/JSBSim-Team/jsbsim
