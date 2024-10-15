@@ -11,6 +11,7 @@ Simulation War Games "The Sixth Domain" based on Godot Open Source 3D Engine
 - https://github.com/godot-extended-libraries/godot-realistic-water
 - https://stayathomedev.itch.io/infinite-ocean
 - https://github.com/tessarakkt/godot4-oceanfft
+- https://github.com/Flarkk/Godot-Water-Shader-Prototype
 
 ### Sky
 
