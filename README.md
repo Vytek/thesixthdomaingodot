@@ -71,3 +71,8 @@ Simulation War Games "The Sixth Domain" based on Godot Open Source 3D Engine
   - Using: https://github.com/tliron/py4go ?
 - https://oalib-acoustics.org/usml/
 - https://github.com/JSBSim-Team/jsbsim
+
+### Issue and suggest:
+- https://www.reddit.com/r/godot/comments/1gimd7i/a_sea_powerjanes_command_fleet_or_naval_modern/
+- https://www.reddit.com/r/godot/comments/117z55x/comment/nevwvc5/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button
+- https://github.com/Battle-Road-Labs/3D-Tiles-For-Godot/issues/106
