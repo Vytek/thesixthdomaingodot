@@ -76,3 +76,12 @@ Simulation War Games "The Sixth Domain" based on Godot Open Source 3D Engine
 - https://www.reddit.com/r/godot/comments/1gimd7i/a_sea_powerjanes_command_fleet_or_naval_modern/
 - https://www.reddit.com/r/godot/comments/117z55x/comment/nevwvc5/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button
 - https://github.com/Battle-Road-Labs/3D-Tiles-For-Godot/issues/106
+
+## Solutions
+
+For now I choose:
+
+- Godot 4.5: https://godotengine.org/download/archive/4.5-stable/
+- https://github.com/Battle-Road-Labs/3D-Tiles-For-Godot
+- https://github.com/tessarakkt/godot4-oceanfft
+- https://github.com/TokisanGames/Sky3D
